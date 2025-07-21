@@ -1,2 +1,2 @@
 # allAboutSchool
-a repo for BSIT coding and shit
+a repo for school coding activity
