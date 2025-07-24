@@ -2,10 +2,10 @@ package com.calculator.roniel;
 
 public class CalculatorLogic  {
 
-    private static char con;
 
-    public static double calculate(double f, double s, char o, char con) {
-        CalculatorLogic.con = con;
+
+    public static double calculate(double f, double s, char o) {
+
         double result;
         switch (o){
             case '+':
