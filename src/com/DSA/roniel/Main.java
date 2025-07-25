@@ -6,11 +6,14 @@ public class Main {
         LinkedList<Integer> number = new LinkedList<Integer>();
         validationLogic myObj = new validationLogic();
 
-        name.add(0,"Roniel");
-        name.add(1,"reniel");
+        name.add("Roniel");
+        name.add("reniel");
 
-        number.add(0,101);
-        number.add(1,102);
+        number.add(101);
+        number.add(102);
+
+        System.out.println("Name: " + name);
+        System.out.println("Number: " + number );
 
     }
 }
