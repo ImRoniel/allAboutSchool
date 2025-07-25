@@ -18,7 +18,7 @@ public class Main {
             System.out.println("2. View Friends:");
             System.out.println("3. Search for Friends:");
             System.out.println("4. Remove for Friends:");
-            System.out.println("4. Exit:");
+            System.out.println("5. Exit:");
             System.out.println("Choose 1 Option:");
             choice = scanner.nextInt();
 

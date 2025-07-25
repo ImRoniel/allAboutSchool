@@ -22,9 +22,8 @@ public class FriendsManager {
     }
 // amethod for viewing friends
     public void viewFriends(){
-        int i = 1;
         for (String each: friendsName){
-            System.out.println(i++ + "\uD83D\uDC4B" + each);
+            System.out.println( "\uD83D\uDC4B" + each);
         }
         System.out.println("Friends View...");
     }
